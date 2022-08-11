@@ -1,0 +1,8 @@
+  
+**/__pycache__/*
+/datasets/**
+/figures/**
+/logs/**
+.ipynb_checkpoints/**
+
+*.ipynb
